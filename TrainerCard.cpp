@@ -9,3 +9,5 @@ void TrainerCard::displayInfo(ostream& os) const {
     os << "Trainer Name: " << cardName << ", Effect: " << trainerEffect << endl;
 }
 
+
+
